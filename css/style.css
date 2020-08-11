@@ -1,0 +1,87 @@
+#header img{
+	width: 50px;
+	transition-duration: 2s;
+}
+#header img:hover{
+	transform: scale(1.5) rotateX(360deg);
+}
+#header ul li{
+	display: inline-block;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+#header ul li a{
+	text-decoration: none;
+	border-bottom: 2px solid green;
+	transition-duration: 2s;
+}
+#header ul li a:hover{
+	border-bottom: 2px solid yellow;
+}
+
+.text-center{
+	text-align: center;
+}
+.lebron17 img{
+	width: 100%;
+	
+}
+.lebron16 img{
+	width: 100%;
+}
+.lebron10 img{
+	width: 100%;
+}
+.kobe6 img {
+	width: 100%;
+}
+.kobe5 img {
+	width: 100%;
+}
+.jordanlastdance img{
+	width: 100%;
+}
+.vesti63 img{
+	width: 100%;
+}
+.vesti81 img{
+	width: 100%;
+}
+.vesti61 img{
+	width: 100%;
+}
+.garnettvesti img{
+	width: 100%;
+}
+.lebronvesti img {
+	width: 100%;
+}
+.kawhivesti img{
+	width: 100%;
+}
+.jordan95 img{
+	width: 100%;
+}
+
+
+.proizvod img{
+	width: 100%;
+}
+
+.vest img{
+	width: 100%;
+}
+
+#onama a img{
+	width: 10px;
+	margin: 50px;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
